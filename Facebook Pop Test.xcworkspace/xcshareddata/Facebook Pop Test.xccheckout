@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0A4E0DDC-00A9-4B23-B031-8313ED2BFC8D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Facebook Pop Test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8D28A208-5B77-4660-9509-DA3E5276ABFF</key>
+		<string>https://github.com/jhead95/facebook-pop-test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Facebook Pop Test.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8D28A208-5B77-4660-9509-DA3E5276ABFF</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jhead95/facebook-pop-test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8D28A208-5B77-4660-9509-DA3E5276ABFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D28A208-5B77-4660-9509-DA3E5276ABFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Facebook Pop Test</string>
+		</dict>
+	</array>
+</dict>
+</plist>

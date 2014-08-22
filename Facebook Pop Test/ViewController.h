@@ -8,6 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController {
+    
+    BOOL timerRunning;
+    
+}
+
+@property (weak, nonatomic) IBOutlet UIButton *button;
+
+- (IBAction)btn_press:(id)sender;
 
 @end
